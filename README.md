@@ -1,8 +1,14 @@
 # NEET Bond Checker
 
-Checks your choices in MCC NEET counselling choice filling, for bonds.
+<center><a href="https://github.com/adi-g15/NEET-bond-checker/actions/workflows/publish.yaml"><img src="https://github.com/adi-g15/NEET-bond-checker/actions/workflows/publish.yaml/badge.svg?branch=main" alt="Build Status" /></a></center>
 
-Bonds are something that many students don't like (ie. mandatory condition to work for the same college as junior doctor after studies for some years)
+<br/>
+
+<center>Checks your choices in MCC NEET counselling choice filling, for bonds.</center>
+
+Many students don't like bonds (ie. mandatory condition to work for the same college as junior doctor after studies for some years)
+
+![](src/screenshots/homepage.png)
 
 **आवश्यकता ही आविष्कार की जननी है**
 
