@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkneet_bond_checker=self.webpackChunkneet_bond_checker||[]).push([[256],{1657:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var a=n(7294);function c(){return a.createElement("div",{style:{display:"flex",flexDirection:"column",height:"100vh",alignItems:"center",justifyContent:"center"}},a.createElement("h1",{style:{fontStretch:"expanded"}},"404"),a.createElement("h2",null,"Galat jagah aa gya patra... Ja Wapas main page pe !!"))}}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-d8a6b65f6f5396bd70c2.js.map
