@@ -1,0 +1,577 @@
+[
+    {
+        "name": "AIIMS, New Delhi",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "Maulana Azad Medical College, New Delhi",
+        "quota": "Delhi University Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "Maulana Azad Medical College, New Delhi",
+        "quota": "Delhi NCR Children/Widows of Personnel of the Armed Forces (CW) Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "Maulana Azad Medical College, New Delhi",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",
+        "quota": "IP University Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",
+        "quota": "Delhi NCR Children/Widows of Personnel of the Armed Forces (CW) Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi, VMMC",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Atal Bihari Vajpayee Institute of Medical Sciences & DR RML HOSPITAL, NEW DELHI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Atal Bihari Vajpayee Institute of Medical Sciences & DR RML HOSPITAL, NEW DELHI",
+        "quota": "IP University Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "University College of Medical Sciences, New Delhi",
+        "quota": "Delhi NCR Children/Widows of Personnel of the Armed Forces (CW) Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "University College of Medical Sciences, New Delhi",
+        "quota": "Delhi University Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "University College of Medical Sciences, New Delhi",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Dr. B.S.A. Medical College, Delhi",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "INST.OF MED.SCIENCES, BHU,VARANASI",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "Jawaharlal Nehru Medical College, AMU,ALIGARH",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Rishikesh ",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Jodhpur",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Bhubaneswar",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS-Bhopal,",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "NDMC Medical College, Delhi",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "JIPMER PUDUCHERRY",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "JIPMER KARAIKAL",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Patna",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "MEDICAL COLLEGE, KOLKATA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "NILRATAN SIRKAR MEDICAL COLLEGE, KOLKATA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "INST OF PG MED EDU & RESEARCH,KOLKATA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "R.G. KAR MEDICAL COLLEGE,KOLKATA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "CALCUTTA NATIONAL MED COLL,KOLKATA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Kalyani",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "NORTH BENGAL MED.COLL,DARJEELING",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+       "name": "BANKURA SAMMILANI MED COLL,BANKURA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Sagar Dutta Medical College & Hospital, Kolkata",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "COLLEGE OF MEDICINE and JNM HOSPITAL, KALYANI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MALDA MED. COLLEGE, MALDA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Indira Gandhi Institute of Medical Sciences, Patna",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "PATNA MEDICAL COLLEGE, PATNA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "NALANDA MEDICAL COLLEGE, PATNA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Darbhanga Medical College, Laheriasarai",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "SRI KRISHNA MEDICAL COLLEGE, MUZAFFARPUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Jawaharlal Nehru Medical College, Bhagalpur",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "VARDHMAN INSTITUTE OF MEDICAL SCIENCES, NALANDA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "ANUGRAH NARAYAN MAGADH MEDICAL COLLEGE, GAYA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "KGMC, LUCKNOW",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "L.L.R.M. MEDICAL COLLEGE, MEERUT",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Raipur",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Nagpur",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Gorakhpur ",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Rai Bareli ",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Deogarh ",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS Bathinda ",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS Jammu",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS Guahawti",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS Rajkot",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS Mangalagiri ",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "AIIMS, Bibi Nagar, Hyderabad",
+        "quota": "Open Seat Quota",
+        "program": "MBBS"
+    },
+    {
+        "name": "Dr Ram Manohar Lohia Inst. of Med. Sce., Lucknow",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "G.S.V.M. MEDICAL COLLEGE, KANPUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "SETH G.S. MEDICAL COLLEGE, MUMBAI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GOVERNMENT MEDICAL COLLEGE AND HOSPITAL, CHANDIGAR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "PT. B.D. SHARMA PGIMS, ROHTAK",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "S.M.S. MEDICAL COLLEGE, JAIPUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "B.J. MEDICAL COLLEGE, AHMEDABAD",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MADRAS MEDICAL COLLEGE, CHENNAI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "STANLEY MEDICAL COLLEGE, CHENNAI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "THANJAVUR MEDICAL COLL.,THANJAVUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MADURAI MEDICAL COLLEGE, MADURAI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "COIMBATORE MEDICAL COLLEGE,COIMBATORE",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GOVT. MEDICAL COLLEGE, NAGPUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "RAJIV GANDHI MEDICAL COLLEGE, THANE",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "LOKMANYA TILAK  MUNICIPAL M C,MUMBAI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "INDIRA GANDHI GOVT.MEDICAL COLL., NAGPUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "BAHIRAMJEE JIJIBHAI MEDICAL COLLGE, PUNE",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Dr. R. N. Cooper General Hospital, Juhu, Mumbai",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MOTI LAL NEHRU MEDICAL COLL, ALLAHABAD",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "S.N. MEDICAL COLLEGE, AGRA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Bangalore Medical College and Research Institute",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MYSORE MED.& RESEARCH INST. MYSORE",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "KARNATAK INST. OF MEDICAL SC.,HUBLI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "VIJAYNAGAR INST OF MED. SC,BELLARY",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MANDYA INST. OF MEDICAL SCI., MANDYA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "HASSAN INST. MEDICAL SCIENCES, HASSAN",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GOVT.MEDICAL COLLEGE,THIRUVANANTHAPURAM",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GOVT. MEDICAL COLLEGE, KOTTAYAM",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GOVT. MEDICAL COLLEGE, KOZHIKODE",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GOVT.MEDICAL COLLEGE, THRISSUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Govt Medical College, Ernakulam",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "M.G.M. MEDICAL COLLEGE, INDORE",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GANDHI MEDICAL COLLEGE, BHOPAL",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "NETAJI SUBHASH CHANDRA BOSE MC,JABALPUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "BUNDELKHAND MEDICAL COLLEGE, SAGAR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MEDICAL COLLEGE, BARODA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "M.P. SHAH MEDICAL COLLEGE, JAMNAGAR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GOVERNMENT MEDICAL COLLEGE, SURAT",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MEDICAL COLLEGE, BHAVNAGAR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Andhra Medical College, Visakhapatnam",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GUNTUR MEDICAL COLLEGE, GUNTUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Rangaraya Medical College, Kakinada",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "KURNOOL MEDICAL COLLEGE, KURNOOL",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "ASSAM MEDICAL COLLEGE, DIBRUGARH",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GUWAHATI MEDICAL COLLEGE, GUWAHATI",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "SILCHAR MEDICAL COLLEGE, SILCHER",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Jorhat Medical College and Hospital, JORHAT",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Tezpur Medical College, Tezpur",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "S.C.B. MEDICAL COLLEGE, CUTTACK",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "MAHARAJA K.C. GAJAPATI M.C.,BRAHMAPUR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "V.S.S. MEDICAL COLLEGE, BURLA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Osmania Medical College Koti ",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Gandhi Medical College Musheerabad Secunderabad",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Kakatiya Medical College Warangal",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Govt Medical College Nalgonda",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "BIDAR INSTITUTE OF MEDICAL SCI.,  BIDAR",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Govt Medical College, Palakkad",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "GOVT.MEDICAL COLLEGE, KOTA",
+        "quota": "All India",
+        "program": "MBBS"
+    },
+    {
+        "name": "Kalpana Chawla Govt. Medical College, Karnal",
+        "quota": "All India",
+        "program": "MBBS"
+    }
+] 
