@@ -81,7 +81,7 @@ export default function NeetBondChecker() {
 					<title>NEET Bond Checker</title>
 				</Helmet>
 			</div>
-			<NavBar title="NEET Bond Checker" />
+			<NavBar title="Ankit Bond Checker" />
 
 			{showHelp ? (<>
 				<hr className="separation" />
