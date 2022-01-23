@@ -2,6 +2,7 @@
     {
         "name": "Andaman and Nicobar Islands Institute of Medical S (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=DBC0F004854457F59FB16AB863A3A1722CEF553F&b=b&boardid=1003"
     },
     {
@@ -98,11 +99,13 @@
     {
         "name": "Government Medical College, Rajnandgaon (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=05A8EA5382B9FD885261BB3EED0527D1D3B07262&b=b&boardid=1003"
     },
     {
         "name": "Lt. B R K Government Medical College, Jagdalpur (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=F38CFE2E2FACBCC742BAD63F91AD55637300CB45&b=b&boardid=1003"
     },
     {
@@ -113,6 +116,7 @@
     {
         "name": "Pt. J N M MEDICAL COLLEGE, RAIPUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=114D4EEFDE1DAE3983E7A79F04C72FEB9A3A7EFD&b=b&boardid=1003"
     },
     {
@@ -150,6 +154,7 @@
     {
         "name": "GOA MEDICAL COLLEGE, PANAJI (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=9E071A3A594A8964CBEFE784F8A6AFAA94C0DE17&b=b&boardid=1003"
     },
     {
@@ -222,6 +227,7 @@
     {
         "name": "INDIRA GANDHI MEDICAL COLL., SHIMLA (All India Seats)",
         "bond_available": true,
+        "bond_type":"NILL",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=06349BE70BD2D5DD98D36B9B8DBA0A057500FDAC&b=b&boardid=1003"
     },
     {
@@ -237,6 +243,7 @@
     {
         "name": "M.G.M. MEDICAL COLLEGE,JAMSHEDPUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"3 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=A3D12597F93E80F7F6A229CEBB1C3E10D4F34EC3&b=b&boardid=1003"
     },
     {
@@ -257,6 +264,7 @@
     {
         "name": "BELGAUM INST. OF MEDICAL SCI., BELGAUM (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=AE1E7198BC3074FF1B2E9FF520C30BC1898D038E&b=b&boardid=1003"
     },
     {
@@ -267,11 +275,13 @@
     {
         "name": "C. Institute of Medical Sciences, Chamarajanagar (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=A929EB33E338738D2A91E955CE7623764480253C&b=b&boardid=1003"
     },
     {
         "name": "ESI-MC&PGIMS&R, Banglore (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=74CBD2C215C2C13C4B6110ADA96DE8891B355DDA&b=b&boardid=1003"
     },
     {
@@ -282,18 +292,20 @@
     {
         "name": "Gadag Institute of Medical Sciences (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=F76B2EA6B45EFF3BC8E4399145CC17A0601F5C8D&b=b&boardid=1003"
     },
     {
         "name": "Gulbarga Institute of Medical Sciences, Gulbarga (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=94940E534AEDD3F6D9BB77C6322F6641DBB7432A&b=b&boardid=1003"
     },
     {
         "name": "HASSAN INST. MEDICAL SCIENCES, HASSAN (All India Seats)",
         "bond_available": true,
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=C1AA04BF421E5B38C3D18933E9994D3F289DEF65&b=b&boardid=1003",
-        "bond_type":"1 yr rural"
+        "bond_type":"1 yr"
     },
     {
         "name": "KARNATAK INST. OF MEDICAL SC.,HUBLI (All India Seats)",
@@ -303,29 +315,32 @@
     {
         "name": "Karwar Institute of Medical Sciences, Karwar (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=D094700E379F0FB3B543E25C77F8E4B3E068F057&b=b&boardid=1003"
     },
     {
         "name": "Kodagu Institute of Medical Sciences, Kodagu (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=04F1241ED2B1B531C2C853CE1EEFF952CD0F40F3&b=b&boardid=1003"
     },
     {
         "name": "Koppal Institute of Medical Sciences (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=5C8F5AC0B7AD23C110793AD1FCF4D3C8D41344D5&b=b&boardid=1003"
     },
     {
         "name": "MANDYA INST. OF MEDICAL SCI., MANDYA (All India Seats)",
         "bond_available": true,
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=26E7458DC56AB2830FADBA7BD2C1AA10E981518D&b=b&boardid=1003",
-        "bond_type":"1 yr rural"
+        "bond_type":"1 yr"
     },
     {
         "name": "MYSORE MED.& RESEARCH INST. MYSORE (All India Seats)",
         "bond_available": true,
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=25293F2761D658CC70C19515861842D712751BDC&b=b&boardid=1003",
-        "bond_type":"1 yr rural"
+        "bond_type":"1 yr"
     },
     {
         "name": "RAICHUR INST. OF MEDICAL SCI., RAICHUR (All India Seats)",
@@ -341,11 +356,12 @@
         "name": "VIJAYNAGAR INST OF MED. SC,BELLARY (All India Seats)",
         "bond_available": true,
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=AEE544CEDDFE7AB69A02F82BDF8CE6EA3862FF02&b=b&boardid=1003",
-        "bond_type":"1 yr rural"
+        "bond_type":"1 yr"
     },
     {
         "name": "GMC, Manjeri, Kerala (All India Seats)",
         "bond_available": true,
+        "bond_type": "Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=DC685E2C3FD7A3A63944383A54AA249EA27F5FDD&b=b&boardid=1003"
     },
     {
@@ -404,29 +420,31 @@
     {
         "name": "G.R. MEDICAL COLLEGE, GWALIOR (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=2952AECA0FE15CF310EDE96C437ACB94B2B208F1&b=b&boardid=1003"
     },
     {
         "name": "GANDHI MEDICAL COLLEGE, BHOPAL (All India Seats)",
         "bond_available": true,
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=9F9AF029585BA014E07CD3910CA976CF56160616&b=b&boardid=1003",
-        "bond_type": "1 yr rural"
+        "bond_type": "1 yr"
     },
     {
         "name": "M.G.M. MEDICAL COLLEGE, INDORE (All India Seats)",
         "bond_available": true,
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=1E7B95C5614637FDCDE70EB7F2D109134C95C6BF&b=b&boardid=1003",
-        "bond_type": "1 yr rural"
+        "bond_type": "1 yr"
     },
     {
         "name": "NETAJI SUBHASH CHANDRA BOSE MC,JABALPUR (All India Seats)",
         "bond_available": true,
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=A165FBD61C277745F187EAAC7182D9C05D0D1171&b=b&boardid=1003",
-        "bond_type": "1 yr(govt)/5 yr(private)"
+        "bond_type": "1 yr*"
     },
     {
         "name": "S.S. MEDICAL COLLEGE, REWA (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=1CC641954099C249E0E4EF0402DA3FD0364D95F0&b=b&boardid=1003"
     },
     {
@@ -444,36 +462,43 @@
     {
         "name": "DR. VAISHAMPAYAM MEMORIAL M.C.,SHOLAPUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=3BE76CC016A8C850661956C5F71D14C621CF6A69&b=b&boardid=1003"
     },
     {
         "name": "DR.S.C.GOVT MEDICAL COLLEGE,,NANDED (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=BAAB34018148392463EF4C49B5A924409CF5F7B0&b=b&boardid=1003"
     },
     {
         "name": "Government Medcial College, Gondia (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=ACFDD18EA7F4A2BA74132BA977DC207204142994&b=b&boardid=1003"
     },
     {
         "name": "GOVERNMENT MEDICAL COLLEGE, AKOLA (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=135DEBD4837026BF06C7BFC5D1E0C6A31611AF1D&b=b&boardid=1003"
     },
     {
         "name": "GOVERNMENT MEDICAL COLLEGE, LATUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=1B4A364F76E9FA8073516100ED65590C50A6D5E9&b=b&boardid=1003"
     },
     {
         "name": "GOVERNMENT MEDICAL COLLEGE, MIRAJ (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=E2154FEA5DA2DD0D1732FF30931723C2973003A0&b=b&boardid=1003"
     },
     {
-        "name": "Govt. Medical College and  Hospital, Chandrapur (All India Seats)",
+        "name": "Govt. Medical College and Hospital, Chandrapur (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr/2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=0BAD865A02D82F4970687FFE1B80822B76CC0626&b=b&boardid=1003"
     },
     {
@@ -485,11 +510,13 @@
     {
         "name": "GOVT. MEDICAL COLLEGE,AURANGABAD (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=3D5BDF107DE596CE77E8CE48A61B585F52BBB61D&b=b&boardid=1003"
     },
     {
         "name": "GRANT MEDICAL COLL & SIR J.J.HOSP,MUMBAI (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr/2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=C0BA17C23A26FF8C314478BC69F30963A6E4A754&b=b&boardid=1003"
     },
     {
@@ -513,6 +540,7 @@
     {
         "name": "Rajarshee Chhatrapati Shahu Maharaj Government Medical College Kolhapur (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=CFE21C6800C88F06D7D0683B1535821C75C954AD&b=b&boardid=1003"
     },
     {
@@ -524,21 +552,25 @@
     {
         "name": "SH VASANT RAO NAIK GOVT.M.C.,YAVATMAL (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=42D2A6AD49F93AB4B987B1A9E738425AACB8D2AF&b=b&boardid=1003"
     },
     {
         "name": "SHRI BHAUSAHEB HIRE GOVT. M.C., DHULE (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=CAD06F3C4901BBCD4A396DD83C4544A146D6E3E8&b=b&boardid=1003"
     },
     {
         "name": "SWAMI RAMANAND TiRTH RURAL M.C,AMBAJOGAI (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=4C8205DA3610A61583B64C7FAEB86DD040CACE63&b=b&boardid=1003"
     },
     {
         "name": "TOPIWALA NATIONAL MEDICAL COLLEGE,MUMBAI (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=2815F6B98B7A1FC00FC6BBB6D86583C410D86AF7&b=b&boardid=1003"
     },
     {
@@ -549,11 +581,13 @@
     {
         "name": "REGIONAL INST OF MEDICAL SCI, IMPHAL (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=52FDB9F68C503E11D168FE52035901864C0A4861&b=b&boardid=1003"
     },
     {
         "name": "NEIGRIHMS, SHILLONG (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=0EC09EF9836DA03F1ADD21E3EF607627E687E790&b=b&boardid=1003"
     },
     {
@@ -584,6 +618,7 @@
     {
         "name": "Indira Gandhi Medical College & RI, Puducherry (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=9FFD1AE121C4F26FE7F0C45ECDC85FA6AC245BF0&b=b&boardid=1003"
     },
     {
@@ -604,6 +639,7 @@
     {
         "name": "DR.S.N. MEDICAL COLLEGE, JODHPUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=EE44C6BCC4E0DFAE682057BAFE6D80F880169BD9&b=b&boardid=1003"
     },
     {
@@ -615,16 +651,19 @@
     {
         "name": "JAWAHAR LAL NEHRU MEDICAL, AJMER (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=D6E3DE36B09BAEE29613A44BADA8DBC0D7202F31&b=b&boardid=1003"
     },
     {
         "name": "JHALAWAR MEDICAL COLLEGE, Jhalawar  (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=98FCC378D7F5ADDA37F271DEBF5D7A4D1CDD37B9&b=b&boardid=1003"
     },
     {
         "name": "R.N.T. MEDICAL COLLEGE, UDAIPUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=4C15DC21C91634C1B301DE6236EB08EAD86BE4AE&b=b&boardid=1003"
     },
     {
@@ -642,11 +681,13 @@
     {
         "name": "SARDAR PATEL MEDICAL COLLEGE, BIKANER (All India Seats)",
         "bond_available": true,
+        "bond_type": "2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=C439C60B7BF00FC6D80B76312309F8DC6107F635&b=b&boardid=1003"
     },
     {
         "name": "CHENGALPATTU MEDICAL COLL,CHENGALPATTU (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=982FD8B711279888A3B54F5AF24F185041D22EE6&b=b&boardid=1003"
     },
     {
@@ -668,51 +709,61 @@
     {
         "name": "GOVT. DHARAMAPURI MED COLL,DHARMAPURI (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=1106A1DDA2D680438ECFB0BB70FD479C55A1791F&b=b&boardid=1003"
     },
     {
         "name": "GOVT. KILPAUK MEDICAL COLLEGE,CHENNAI (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=065F8E41A20C940689359644AAE39608D126C498&b=b&boardid=1003"
     },
     {
         "name": "Govt. Medical College ESI and Hospital, Coimbatore (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=682A03F4CD9E0C79B8A1F0E34266B9651AD9821C&b=b&boardid=1003"
     },
     {
         "name": "GOVT. MEDICAL COLLEGE,TIRUNELVELI (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=25250E46745C8169531DA0086E6BBC3369795330&b=b&boardid=1003"
     },
     {
         "name": "GOVT. MOHAN KUMARAMANGALAM M.C.,SALEM (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=45CBE19F37712E7F4E2FCFE27422A2410971F95F&b=b&boardid=1003"
     },
     {
         "name": "Govt. Pudukkottai Medical College Hopt., Pudukkott (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=81ECFD4383A1B3F7805215DA769E4BB7E368451E&b=b&boardid=1003"
     },
     {
         "name": "Govt. Sivgangai M. C. Sivagangai (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=D5F0D9102728577DFC9EEC0A84867F75AFBDFE46&b=b&boardid=1003"
     },
     {
         "name": "GOVT. VELLORE MEDICAL COLLEGE, VELLORE (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=9A61B86ECEF7F4F8978D90273ACFE0236BAE7479&b=b&boardid=1003"
     },
     {
         "name": "GTMC, THIRUVARUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=29350804A152F35FBEF4117A6A434DEEE760DEE9&b=b&boardid=1003"
     },
     {
         "name": "GVMC, VILLUPURAM (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=EF7DE0B7DEDDE0A2722380A752FECE7A2CCDD672&b=b&boardid=1003"
     },
     {
@@ -723,11 +774,13 @@
     {
         "name": "K.A.P. VISWANATHAM G.M.C.,TIRUCHIRAPALLI (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=733B57AE9E45BAE742221B555C15E97F45364893&b=b&boardid=1003"
     },
     {
         "name": "KANYAKUMARI GOVT. MED. COLL.,ASARIPALLAM (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=431BF3B995A99C2CD6899B97187D1542A965CEC9&b=b&boardid=1003"
     },
     {
@@ -762,26 +815,31 @@
     {
         "name": "THENI GOVT. MEDICAL COLLEGE, THENI (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=267B976F6F335984AB90F0F478E8A1637EABE7D5&b=b&boardid=1003"
     },
     {
         "name": "Thiruvannamalai MC, Thiruvannamalai, TN (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=3032A4BEBA0CC85BA637566923B54C9ADDC94B63&b=b&boardid=1003"
     },
     {
         "name": "THOOTHUKUDI MEDICAL COLLEGE,THOOTHUKUDI (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=7F35419A058E19D2B75E962DBA149BDDEDEC7606&b=b&boardid=1003"
     },
     {
         "name": "AGARTALA GOVT. MEDICAL COLLEGE,AGARTALA (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=367AC64A16D19E2AFEFCF7C5FAB8666DDA92F9DE&b=b&boardid=1003"
     },
     {
         "name": "B.R.D. MEDICAL COLLEGE, GORAKHPUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=7EDAB1F00CA6B31E11F7EB2E61787ED747420923&b=b&boardid=1003"
     },
     {
@@ -799,11 +857,13 @@
     {
         "name": "GMC, Azamgarh, UP (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=9D323717C1D5F918D8B0267C157186D6E6B64EC9&b=b&boardid=1003"
     },
     {
         "name": "Rajkiya Medical College, Jalaun (All India Seats)",
         "bond_available": true,
+        "bond_type": "2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=3717862A00F88C6164A735D661D4E9C91C5D9767&b=b&boardid=1003"
     },
     {
@@ -814,6 +874,7 @@
     {
         "name": "Govt. Medical College, Kannauj (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=05580CAED314DF2D74C3E515D57294928CFBFAE6&b=b&boardid=1003"
     },
     {
@@ -836,6 +897,7 @@
     {
         "name": "MAHARANI LAXMI BAI MEDICAL COLL,JHANSI (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=EB65E208B715D3B42FC535AEBCD8D3E7FB5F2C94&b=b&boardid=1003"
     },
     {
@@ -847,11 +909,13 @@
     {
         "name": "MRA MEDICAL COLLEGE AMBEDKAR NAGAR, UP (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=E26973E6EE8AB9CD8CB3F207D1B90F00D2669EFF&b=b&boardid=1003"
     },
     {
         "name": "Uttar Pradesh University of Medical Sciences, Saifai, Etawah (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=787D41D9C35C57EF9E4ABA799BACEFAC312149A4&b=b&boardid=1003"
     },
     {
@@ -889,6 +953,7 @@
     {
         "name": "BURDWAN MEDICAL COLLEGE,BURDWAN (All India Seats)",
         "bond_available": true,
+        "bond_type": "Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=ED2EFC1C05342A60C2198A5E96773A237008956B&b=b&boardid=1003"
     },
     {
@@ -905,6 +970,7 @@
     {
         "name": "ESIC PGIMSR, Joka, Kolkata, WB (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=97B31C942DEAB39118E64423EFE46B9C31E669F7&b=b&boardid=1003"
     },
     {
@@ -928,11 +994,13 @@
     {
         "name": "MIDNAPORE MEDICAL COLLEGE, MIDNAPUR (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=F44A286F486D11990238C4AE59A9B4F8B7A9EDF4&b=b&boardid=1003"
     },
     {
         "name": "Mursidabad M C & Hospital, Mursidabad (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=154A31BF7FA827BCE90915439A7A5F3AA0F2FA47&b=b&boardid=1003"
     },
     {
@@ -1066,6 +1134,7 @@
     {
         "name": "MG Inst. of Medical Sciences, Sevagram Wardha (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=B00168585F7B81B68F0EF02FFA919C710FB6F592&b=b&boardid=1003"
     },
     {
@@ -1177,6 +1246,7 @@
     {
         "name": "ESIC Medical College, Faridabad (ESI)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=3352D0D8278C176FA61D82326D7E51DABD2A032E&b=b&boardid=1003"
     },
     {
@@ -1192,6 +1262,7 @@
     {
         "name": "ESIC Medical College, Gulbarga (ESI)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=5715AA02DE07DC08F6197A5850B92D7640766663&b=b&boardid=1003"
     },
     {
@@ -1202,6 +1273,7 @@
     {
         "name": "ESIC Medical College AND PGIMSR, Chennai (ESI)",
         "bond_available": true,
+        "bond_type": "3 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=8749F5BAD0754DDC52E5945049175078943A69AD&b=b&boardid=1003"
     },
     {
@@ -1217,6 +1289,7 @@
     {
         "name": "ESIC Medical College, Hyderbad (ESI)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=93AC1946CB917ABC4735CDD1EE5FB7E3C6E164DE&b=b&boardid=1003"
     },
     {
@@ -1250,6 +1323,239 @@
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=7A698699A9229B278AFA72593214582D739B9BAD&b=b&boardid=1003"
     },
     {
+        "name": "Bangalore Medical College and Research Institute",
+        "bond_available": true,
+        "bond_type": "1 yr",
+        "bond_url": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name": "AIIMS Jammu",
+        "bond_available": false
+    },
+    {
+        "name": "AIIMS, Madurai",
+        "bond_available": false
+    },
+    {
+        "name": "Autonomous State Medical College , Fatehpur",
+        "bond_available":true,
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121",
+        "bond_type": "2 yr"
+    },
+    {
+        "name": "Autonomous State Medical College ,Etah",
+        "bond_available":true,
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121",
+        "bond_type": "2 yr"
+    },
+    {
+        "name": "Autonomous State Medical college Society Hardoi",
+        "bond_available":true,
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121",
+        "bond_type": "2 yr"
+    },
+    {
+        "name": "Autonomous State Medical College Society , Mirzapur",
+        "bond_available":true,
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121",
+        "bond_type": "2 yr"
+    },
+    {
+        "name": "Autonomous State Medical College, Ghazipur",
+        "bond_available":true,
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121",
+        "bond_type": "2 yr"
+    },
+    {
+        "name": "Autonomous State Medical College, Pratapgarh",
+        "bond_available":true,
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121",
+        "bond_type": "2 yr"
+    },
+    {
+        "name": "Autonomous State Medical College, Siddharthnagar",
+        "bond_available":true,
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121",
+        "bond_type": "2 yr"
+    },
+    {
+        "name":"Bhima Bhoi Medical College and Hospital , Balangir",
+        "bond_available":false
+    },
+    {
+        "name":"Burdwan Dental College & Hospital, Burdwan",
+        "bond_available":true,
+        "bond_type":"Money Bond",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"DC, RIMS, Imphal",
+        "bond_available":true,
+        "bond_type":"Money Bond",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name": "AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh",
+        "bond_available": false
+    },
+    {
+        "name": "Dr. B.R. Ambedkar State Institute of Medical Sciences",
+        "bond_available": false
+    },
+    {
+        "name":"Deben Mahata Government Medical College & Hospital",
+        "bond_available":true,
+        "bond_type":"Money Bond",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Employees State Insurance Corporation Medical College, Alwar",
+        "bond_available":true,
+        "bond_type":"1 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"ESIC Medical College & Hospital, Bihta",
+        "bond_available":true,
+        "bond_type":"1 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College & Hospital, Alibag-Raigad",
+        "bond_available":true,
+        "bond_type":"1 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College & Hospital, Alibag-Raigad",
+        "bond_available":true,
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Dindigul",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, ESIC, Kollam",
+        "bond_available":true,
+        "bond_type":"1 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Kallakurichi",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Kanker, Chhattisgarh",
+        "bond_available":true,
+        "bond_type":"2 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Krishnagiri",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Nagapattinam",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government medical College, Namakkal",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Nilgiris",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Ramanathapuram",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Thiruvallur",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Tiruppur",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Government Medical College, Virudhunagar",
+        "bond_available":true,
+        "bond_type":"5 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Govt. Medical College and Hospital, Chandrapur",
+        "bond_available":true,
+        "bond_type":"1 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"Lt. L A M Govt. Medical College, Raigarh",
+        "bond_available":true,
+        "bond_type":"2 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name":"MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE, DEORIA",
+        "bond_available":true,
+        "bond_type":"2 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name": "Diphu Medical College & Hospital, Assam",
+        "bond_available":true,
+        "bond_type":"5 yr*",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name": "Rani Durgavati Medical College, Banda",
+        "bond_available":true,
+        "bond_type":"3 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name": "Shaheed Nirmal Mahto Medical College & Hospital, Dhanbad",
+        "bond_available":true,
+        "bond_type": "3 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name": "Shri Atal Bihari Vajpayee Medical College & Research Institute, Bengaluru",
+        "bond_available":true,
+        "bond_type":"1 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+        "name": "Sri Jagannath Medical College & Hospital, Puri",
+        "bond_available":false
+    },
+    {
+        "name": "UNS AUTONOMOUS STATE MEDICAL COLLEGES, Jaunpur",
+        "bond_available":true,
+        "bond_type":"2 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
         "name": "Sri Venkateswara Medical College, Tirupati (All India Seats)",
         "bond_available": false,
         "bond_url": null
@@ -1267,26 +1573,31 @@
     {
         "name": "Govt Medical College, Dungarpur (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=75988F5AC0575A8D3636291A136CF92664152ED3&b=b&boardid=1003"
     },
     {
         "name": "Govt Medical College, Churu (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=F8C024C4AD95BF78BAAF9D88334722B84F8A930B&b=b&boardid=1003"
     },
     {
         "name": "Goverment Medical College, Datia (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=6C0AC76CA9FE1AF889558D11FD9A75E1FB9A0B86&b=b&boardid=1003"
     },
     {
         "name": "Government Medical College, Bharatpur (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=A2092F63A2F91825E2C72496B104E027C2A5B0F0&b=b&boardid=1003"
     },
     {
         "name": "Government Medical College, Bhilwara (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=82AD38F885211232BD89C439E0DF9982D6AE74F7&b=b&boardid=1003"
     },
     {
@@ -1297,6 +1608,7 @@
     {
         "name": "Government Medical College, Pali (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=784EF0059227D57909C9D81632B89915ADC03C22&b=b&boardid=1003"
     },
     {
@@ -1312,6 +1624,7 @@
     {
         "name": "Goverment Medical College And Hospital Jalgaon (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr/2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=6D0E1050797B03D8826EA5AD224ADBA68621F692&b=b&boardid=1003"
     },
     {
@@ -1342,6 +1655,7 @@
     {
         "name": "ACSR Govt Medical College, Nellore (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=5A9295D8FA430D03C34C8F7145F47117FB940F31&b=b&boardid=1003"
     },
     {
@@ -1375,11 +1689,13 @@
     {
         "name": "Rajiv Gandhi Institute Medical Sce of Adilabad (All India Seats)",
         "bond_available": true,
+	    "bond_type": "Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=B02B70815B8520A272DEB770F0BD96F6AB0A8257&b=b&boardid=1003"
     },
     {
         "name": "Government Medical College Khaleelwadi (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=51EAC6B471A284D3341D8C0C63D0F1A286262A18&b=b&boardid=1003"
     },
     {
@@ -1390,6 +1706,7 @@
     {
         "name": "Government Medical College Siddipet (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=06BE19FF5CBFB5DBA362873DE9CBA10FA3D48B9F&b=b&boardid=1003"
     },
     {
@@ -1405,6 +1722,7 @@
     {
         "name": "Maharaja Jitendra Narayan Medical College and Hospital Coochbehar (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=CF2F328D24859D56D55D2B610B12525E60B21895&b=b&boardid=1003"
     },
     {
@@ -1416,6 +1734,7 @@
     {
         "name": "Chhindwara Institute of Medical Sciences (All India Seats)",
         "bond_available": true,
+        "bond_type": "1 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=3977DCED04B7D0C7BC81B01A3F4124E14C683B8E&b=b&boardid=1003"
     },
     {
@@ -1431,6 +1750,7 @@
     {
         "name": "Govt Medical College Shahdol (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=5E5AD0B76C7633737A8D81700681204E0167C0D9&b=b&boardid=1003"
     },
     {
@@ -1441,16 +1761,19 @@
     {
         "name": "Govt Medical College Firozabad (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=7ED28031FEA3428609396624C50F0DB45CFE7069&b=b&boardid=1003"
     },
     {
         "name": "Diamond Harbour Govt Medical College (All India Seats)",
         "bond_available": true,
+        "bond_type": "Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=1625434CEBB5E5C4CF7CAC668AB24444F9EC05B7&b=b&boardid=1003"
     },
     {
         "name": "Raiganj Government Medical College (All India Seats)",
         "bond_available": true,
+        "bond_type": "Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=6E75D23A0574AFCE62799AAB4AFCD882F53D6680&b=b&boardid=1003"
     },
     {
@@ -1461,26 +1784,31 @@
     {
         "name": "RAMPURHAT GOVT MEDICAL COLLEGE RAMPURHAT  (All India Seats)",
         "bond_available": true,
+        "bond_type": "Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=8665243EF242A2B13FF662D0943D369E8BA0E206&b=b&boardid=1003"
     },
     {
         "name": "Govt Medical College Barmer Rajasthan (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=FBEA31C7083EF34D19F4B946B94B60560C709E34&b=b&boardid=1003"
     },
     {
         "name": "Govt Medical College Ratlam (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=EAEF52968C5B1FA7AA44F27A0584221E72E9B648&b=b&boardid=1003"
     },
     {
         "name": "Govt. Medical College, Khandwa (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=6153F0B97FB44420CD413A37979F8E6219FC3F36&b=b&boardid=1003"
     },
     {
         "name": "Government Medical College Suryapet (All India Seats)",
         "bond_available": true,
+        "bond_type":"Money Bond",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=2978E0C34DBEBFC46BF96C994436A5790A22017A&b=b&boardid=1003"
     },
     {
@@ -1492,6 +1820,7 @@
     {
         "name": "ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=9EE0DF7C8A647FF45E95ABFAC028EF5651BE0AC5&b=b&boardid=1003"
     },
     {
@@ -1502,36 +1831,43 @@
     {
         "name": "Govt institute of Medcial Sciences Kasna  (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=6CC71D91778FCDDA0EB8709E9348240B251AFE5E&b=b&boardid=1003"
     },
     {
         "name": "Govt Medical college Shivpuri (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr*",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=EE16EE0FA7F21A4101793582E1CF4B24FEF9F948&b=b&boardid=1003"
     },
     {
         "name": "Govt Medical College Faizabad  (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=343AE8E26CA054CFCC1F6CBFE5781DDDC9059ADC&b=b&boardid=1003"
     },
     {
         "name": "Govt Medical College Basti (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=1B0A69D74C5AB68F9E3505F103F40618A51E5987&b=b&boardid=1003"
     },
     {
         "name": "GMC, Shahjhanpur (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=014A1AA3F7A2C6578A3FA48E3DD84F775925489F&b=b&boardid=1003"
     },
     {
         "name": "Gmc, Bahraich (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=77D67AB1E3D05296A7131E197D9D3767FB900BAD&b=b&boardid=1003"
     },
     {
         "name": "Govt Medical College Badaun (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=C56F5CB661DA571966164B6B20C855E02FCC7044&b=b&boardid=1003"
     },
     {
@@ -1542,6 +1878,7 @@
     {
         "name": "Govt Medical College Baramati (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=CCDDAF626302032B0414003D6D4EBBFE4B3F99AF&b=b&boardid=1003"
     },
     {
@@ -1552,6 +1889,7 @@
     {
         "name": "Govt. Medical College Karur (All India Seats)",
         "bond_available": true,
+        "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=EDD6EBDA641B723CC1BC537C49099C1D5A458138&b=b&boardid=1003"
     },
     {
@@ -1692,11 +2030,13 @@
     {
         "name": "SHRI KALYAN GOVT MEDICAL COLLEGE SIKAR (All India Seats)",
         "bond_available": true,
+        "bond_type":"2 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=3A69AA1B60FEBF635D84CDCA387928F10062450D&b=b&boardid=1003"
     },
     {
         "name": "GOVERMENT MEDICAL COLLEGE NANDURBAR MAHARARASTRA (All India Seats)",
         "bond_available": true,
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=BE2793CDD2AF9B687E24DA064353ECD4681052D2&b=b&boardid=1003"
     }
 ]
