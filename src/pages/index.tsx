@@ -160,7 +160,9 @@ export default function NeetBondChecker() {
 										try {
 											let s = e.target.value;
 											s = s.replaceAll("\\", "");
-											s = s.substring(1, s.length - 1);
+											if( s.startsWith("\"") ) {
+												s = s.substring(1, s.length - 1);
+											}
 											const choices = JSON.parse(s); choices.shift();
 											console.debug({ choices });
 											setFilledChoices(choices);
