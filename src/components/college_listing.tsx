@@ -13,6 +13,7 @@ interface CollegeProps {
 };
 
 export default function CollegeListing(props: CollegeProps) {
+    const [longer_name, setLongerName] = useState(props.name);
     const [bond_link, setBondLink] = useState(null);
     const [bond_type, setBondType] = useState("Bond");
     const NOT_FOUND_STR = "NAME NOT FOUND !";
@@ -24,6 +25,8 @@ export default function CollegeListing(props: CollegeProps) {
             let listed_name = list["name"].toLowerCase();
 
             if (listed_name.includes(name) || name.includes(listed_name)) {
+                // Set props.name to a longer name
+                setLongerName((list["name"].length > props.name.length) ? list["name"] : props.name);
                 if (list["bond_available"] == true) {
                     if(list["bond_type"]) {
                         setBondType(list["bond_type"]);
@@ -46,7 +49,7 @@ export default function CollegeListing(props: CollegeProps) {
         <tr className="pdf_down">
             <td className="centered">{props.id}</td>
             <td>
-                <span className="pdf_name">
+                <span className="pdf_name" title={longer_name}>
                     {props.name}
                 </span>
             </td>
