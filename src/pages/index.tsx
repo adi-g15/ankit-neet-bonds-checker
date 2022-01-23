@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import NavBar from "../components/navbar";
 import Footer from "../components/footer";
-import PDFDown from "../components/pdf_down";
+import CollegeListing from "../components/college_listing";
 import "../styles/global.css";
 import UnitZip from "../components/unitzip";
 import list_bonds from "../data/bond-list.json";
@@ -31,9 +31,9 @@ if (!String.prototype.replaceAll) {
 	};
 }
 
-export default function CS4401() {
+export default function NeetBondChecker() {
 	const [college_name, set_college_name] = useState("");
-	const [colleges, setColleges] = useState([]);			// array of pdfs (each being a File)
+	const [colleges, setColleges] = useState([]);
 	const [search_by_college, setSearchByCollege] = useState(false);
 	const [filled_choices, setFilledChoices] = useState([]);
 	const [parseError, setParseError] = useState(false);
@@ -86,7 +86,7 @@ export default function CS4401() {
 			{showHelp ? (<>
 				<hr className="separation" />
 				<h3 className="centered">Help</h3>
-				np            <div style={{ width: "80%", marginLeft: "auto", marginRight: "auto" }}>
+				<div style={{ width: "80%", marginLeft: "auto", marginRight: "auto" }}>
 					<div className="container">
 						<strong>{"1. Go to \"Choice Filling\" (Sign In -> Choice Filling)"}</strong>
 						<br />
@@ -109,6 +109,10 @@ export default function CS4401() {
 						<strong>{"4. Right click on the string printed, chose \"Copy Object\", then paste below"}</strong>
 						<br />
 						<img className="centered" style={{ margin: "8px" }} width="90%" src={ScreenshotCopyObject} />
+						<br />
+					</div>
+					<div className="container">
+						<strong>{"Go back to main page of this website (neet-bonds.netlify.app), and paste it in box there"}</strong>
 						<br />
 					</div>
 				</div>
@@ -139,7 +143,7 @@ export default function CS4401() {
 						) : (<>
 							<div className="centered">
 								{"Follow simple instructions here: "}
-								<a href='#' onClick={(e) => {setShowHelp(true)}}>Help</a>
+								<a href='#' onClick={(e) => { setShowHelp(true) }}>Help</a>
 							</div>
 							<div className="centered">Paste copied object as told in instructions: </div>
 							<div className="centered">
@@ -187,7 +191,7 @@ export default function CS4401() {
 						</thead>
 						<tbody>
 							{colleges.map((value, index) => (
-								<PDFDown
+								<CollegeListing
 									name={value.name}
 									key={index}
 									id={index + 1}

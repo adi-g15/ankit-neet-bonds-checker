@@ -7,13 +7,14 @@ import list_bonds from "../data/bond-list.json";
  * 
  * NOTE-  the `link` and `metadata` are NOT returned by firebase, you have to call another function to get them, that's why we have promises here
  */
-interface PdfProps {
+interface CollegeProps {
     name: string,
     id: number
 };
 
-export default function PdfDown(props: PdfProps) {
+export default function CollegeListing(props: CollegeProps) {
     const [bond_link, setBondLink] = useState(null);
+    const [bond_type, setBondType] = useState("Bond");
     const NOT_FOUND_STR = "NAME NOT FOUND !";
 
     useEffect(() => {
@@ -23,7 +24,10 @@ export default function PdfDown(props: PdfProps) {
             let listed_name = list["name"].toLowerCase();
 
             if (listed_name.includes(name) || name.includes(listed_name)) {
-                if (list["bond_available"]) {
+                if (list["bond_available"] == true) {
+                    if(list["bond_type"]) {
+                        setBondType(list["bond_type"]);
+                    }
                     setBondLink(list["bond_url"])
                 }
                 found += 1;
@@ -34,7 +38,7 @@ export default function PdfDown(props: PdfProps) {
         }
 
         if (found == 0) {
-            setBondLink(NOT_FOUND_STR);
+            setBondType(NOT_FOUND_STR);
         }
     }, [props.name]);
 
@@ -48,11 +52,11 @@ export default function PdfDown(props: PdfProps) {
             </td>
             <td className="centered">
                 {
-                    bond_link === NOT_FOUND_STR ? (
+                    bond_type === NOT_FOUND_STR ? (
                         <p style={{ color: "red" }}>NOT FOUND !</p>
                     ) : (
                         <a download href={bond_link}>
-                            {bond_link !== null ? "Bond Link" : "-"}
+                            {bond_link !== null ? bond_type : "-"}
                         </a>
                     )
                 }
