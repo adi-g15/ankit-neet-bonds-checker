@@ -100,7 +100,7 @@ export default function NeetBondChecker() {
 					<div className="container">
 						<strong>{"3. Copy paste this into console:"}</strong>
 						<br />
-						{"JSON.stringify(Array.from(document.querySelectorAll(\"#filledChoiceContainer tr\")).map(obj => ({name: obj.children[1].textContent}) );"}
+						{"JSON.stringify( Array.from( document.querySelectorAll(\"#filledChoiceContainer tr\")).map(obj => ({name: obj.children[1].textContent}) ))"}
 						<br />
 						<img className="centered" style={{ margin: "8px" }} width="90%" src={ScreenshotCommand} />
 						<br />
