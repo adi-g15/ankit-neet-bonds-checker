@@ -160,7 +160,8 @@ export default function NeetBondChecker() {
 										try {
 											let s = e.target.value;
 											s = s.replaceAll("\\", "");
-											if( s.startsWith("\"") ) {
+											s = s.replaceAll("  ", " ");	// replace all double spaces with single space
+											if (s.startsWith("\"")) {
 												s = s.substring(1, s.length - 1);
 											}
 											const choices = JSON.parse(s); choices.shift();

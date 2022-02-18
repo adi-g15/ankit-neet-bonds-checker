@@ -498,7 +498,7 @@
     {
         "name": "Govt. Medical College and Hospital, Chandrapur (All India Seats)",
         "bond_available": true,
-        "bond_type":"1 yr/2 yr",
+        "bond_type":"1 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=0BAD865A02D82F4970687FFE1B80822B76CC0626&b=b&boardid=1003"
     },
     {
@@ -829,6 +829,28 @@
         "bond_available": true,
         "bond_type":"5 yr",
         "bond_url": "https://mcc.nic.in/UGCounselling/Home/ShowPdf?Type=AE4F281DF5A5D0FF3CAD6371F76D5C29B6D953EC&ID=7F35419A058E19D2B75E962DBA149BDDEDEC7606&b=b&boardid=1003"
+    },
+    {
+	"name": "SHEIKH BHIKHARI MEDICAL COLLEGE & HOSPITAL, HAZARIBAG ( Formerly called as- Hazaribagh Medical College, Hazaribag)",
+	"bond_available": true,
+        "bond_type": "3 yr",                                                                                                 
+        "bond_url": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+	"name": "SOBAN SINGH JEENA GOVERNMENT INSTITUTE OF MEDICAL SCIENCE & RESEARCH, ALMORA",
+	"bond_available": false
+    },
+    {
+	"name": "Phulo Jhano Medical College , Dumka",
+        "bond_available": true,
+        "bond_type": "3 yr",
+        "bond_url": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"  
+    },
+    {
+	"name": "Medinirai Medical College (previously Known as Palamu Medical College), Palamu",
+	"bond_available": true,
+	"bond_type": "3 yr",
+	"bond_url": "https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
     },
     {
         "name": "AGARTALA GOVT. MEDICAL COLLEGE,AGARTALA (All India Seats)",
@@ -1504,12 +1526,6 @@
         "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
     },
     {
-        "name":"Govt. Medical College and Hospital, Chandrapur",
-        "bond_available":true,
-        "bond_type":"1 yr",
-        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
-    },
-    {
         "name":"Lt. L A M Govt. Medical College, Raigarh",
         "bond_available":true,
         "bond_type":"2 yr",
@@ -1519,6 +1535,22 @@
         "name":"MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE, DEORIA",
         "bond_available":true,
         "bond_type":"2 yr",
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+	"name": "Government Medical College, Sindhudurg",
+	"bond_available": false
+    },
+    {
+	"name": "CHIKKABALLAPURA INSTITUTE OF MEDICAL SCIENCES, KARNATAKA",
+	"bond_available":true,                                                        
+        "bond_type":"1 yr",                                                           
+        "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
+    },
+    {
+	"name": "Government Medical College, Ariyalur",
+	"bond_available":true,  
+        "bond_type":"5 yr",
         "bond_url":"https://mcc.nic.in/Counseling/Report/ViewInstituteProfileDetail.aspx?boardId=140032121"
     },
     {
