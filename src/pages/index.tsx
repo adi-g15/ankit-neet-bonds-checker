@@ -100,7 +100,13 @@ export default function NeetBondChecker() {
 					<div className="container">
 						<strong>{"3. Copy paste this into console:"}</strong>
 						<br />
+						{"a. To check filled choices: "}
+						<br />
 						{"JSON.stringify( Array.from( document.querySelectorAll(\"#filledChoiceContainer tr\")).map(obj => ({name: obj.children[1].textContent}) ))"}
+						<br />
+						{"b. To check available choices (MBBS courses only, to check all remove the .filter(...)): "}
+						<br />
+						{"JSON.stringify([{}].concat(Array.from(document.querySelectorAll(\"#avlChoiceContainer tr\")).filter(obj => obj.children[3].textContent === \"MBBS\").map(obj => ({name: obj.children[1].textContent}))))"}
 						<br />
 						<img className="centered" style={{ margin: "8px" }} width="90%" src={ScreenshotCommand} />
 						<br />
